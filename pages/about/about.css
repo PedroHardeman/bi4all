@@ -1,0 +1,7 @@
+.about-content {
+	height: 100%;
+	padding: 40px;
+}
+.about-content>p {
+	width: 100%;
+}
