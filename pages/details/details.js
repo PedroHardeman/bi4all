@@ -31,7 +31,7 @@ function show(user) {
 }
 
 function checkPodium(id) {
-	if (id > 3) return
+	if (id > 3) return ``
 	else if (id == 1) return `<img src="../../assets/medals1.jpg" alt="medals" class="medals" />`
 	else if (id == 2) return `<img src="../../assets/medals2.jpg" alt="medals" class="medals" />`
 	else if (id == 3) return `<img src="../../assets/medals3.jpg" alt="medals" class="medals" />`
